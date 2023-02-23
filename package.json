@@ -1,0 +1,22 @@
+{
+  "name": "launcher-logs",
+  "version": "1.0.0",
+  "description": "Launcher for logs Minecraft and more...",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandro642/Launcher-Logs.git"
+  },
+  "author": "Sandro642",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandro642/Launcher-Logs/issues"
+  },
+  "homepage": "https://github.com/Sandro642/Launcher-Logs",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
